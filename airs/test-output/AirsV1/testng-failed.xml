@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AirsV1]">
+  <test thread-count="5" name="AirsIBEV1 Test(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.airs.testCases.loginPageTCs">
+        <methods>
+          <include name="loginTestCase1"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.airs.testCases.loginPageTCs -->
+    </classes>
+  </test> <!-- AirsIBEV1 Test(failed) -->
+</suite> <!-- Failed suite [AirsV1] -->

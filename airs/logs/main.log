@@ -1,0 +1,60 @@
+2020-03-13 21:14:26,168 +0530 [main] INFO  (BaseClass.java:52) -    chrome :Driver Load Successfully
+2020-03-13 21:15:55,088 +0530 [main] INFO  (BaseClass.java:52) -    chrome :Driver Load Successfully
+2020-03-13 21:16:11,520 +0530 [main] INFO  (BaseClass.java:66) -     URL is not opened successfully :http://www.facebook.com
+2020-03-13 21:17:40,160 +0530 [main] INFO  (BaseClass.java:52) -    chrome :Driver Load Successfully
+2020-03-13 21:17:51,751 +0530 [main] INFO  (BaseClass.java:58) -     URL is opened successfully :http://www.facebook.com
+2020-03-13 21:17:51,775 +0530 [main] INFO  (loginPageTCs.java:13) - loginTestCase1()
+2020-03-13 21:17:56,493 +0530 [main] INFO  (loginPageTCs.java:17) - User Id Entered :KARUNANIDHIRAI@YAHOO.COM
+2020-03-13 21:17:56,665 +0530 [main] INFO  (loginPageTCs.java:20) - Password Entered :$Mamata12708$
+2020-03-13 21:17:56,798 +0530 [main] INFO  (loginPageTCs.java:22) - Submit button clicked
+2020-03-13 21:18:10,425 +0530 [main] INFO  (loginPageTCs.java:32) - Login TC1 passed: :Facebook
+2020-03-13 21:18:11,473 +0530 [main] INFO  (BaseClass.java:76) -    Quit : Driver Loaded Successfully
+2020-03-14 09:13:14,982 +0530 [main] INFO  (BaseClass.java:52) -    chrome :Driver Load Successfully
+2020-03-14 09:14:26,409 +0530 [main] INFO  (BaseClass.java:58) -    URL is opened successfully :http://www.facebook.com
+2020-03-14 09:14:26,460 +0530 [main] INFO  (loginPageTCs.java:13) - loginTestCase1()
+2020-03-14 09:14:31,118 +0530 [main] INFO  (loginPageTCs.java:17) - User Id Entered :KARUNANIDHIRAI@YAHOO.COM
+2020-03-14 09:14:31,271 +0530 [main] INFO  (loginPageTCs.java:20) - Password Entered :$Mamata12708$
+2020-03-14 09:14:31,386 +0530 [main] INFO  (loginPageTCs.java:22) - Submit button clicked
+2020-03-14 09:14:37,034 +0530 [main] INFO  (loginPageTCs.java:32) - Login TC1 passed: :
+2020-03-14 09:14:37,860 +0530 [main] INFO  (BaseClass.java:76) -    Quit : Driver Loaded Successfully
+2020-03-14 09:17:41,793 +0530 [main] INFO  (BaseClass.java:68) -    firefox: Fail to load driver Successfully
+2020-03-14 09:17:41,810 +0530 [main] INFO  (loginPageTCs.java:13) - loginTestCase1()
+2020-03-14 09:20:33,118 +0530 [main] INFO  (BaseClass.java:36) - 
+2020-03-14 09:20:33,121 +0530 [main] INFO  (BaseClass.java:68) -    firefox: Fail to load driver Successfully
+2020-03-14 09:20:33,132 +0530 [main] INFO  (loginPageTCs.java:13) - loginTestCase1()
+2020-03-14 09:35:51,728 +0530 [main] INFO  (BaseClass.java:36) - ./Drivers\geckodriver.exe
+2020-03-14 09:35:58,833 +0530 [main] INFO  (BaseClass.java:52) -    firefox :Driver Load Successfully
+2020-03-14 09:36:30,182 +0530 [main] INFO  (BaseClass.java:58) -    URL is opened successfully :http://www.facebook.com
+2020-03-14 09:36:30,216 +0530 [main] INFO  (loginPageTCs.java:13) - loginTestCase1()
+2020-03-14 09:36:30,459 +0530 [main] INFO  (loginPageTCs.java:17) - User Id Entered :KARUNANIDHIRAI@YAHOO.COM
+2020-03-14 09:36:30,537 +0530 [main] INFO  (loginPageTCs.java:20) - Password Entered :$Mamata12708$
+2020-03-14 09:37:44,384 +0530 [main] INFO  (loginPageTCs.java:22) - Submit button clicked
+2020-03-14 09:37:47,428 +0530 [main] INFO  (loginPageTCs.java:32) - Login TC1 passed: :(65) Facebook
+2020-03-14 09:37:49,746 +0530 [main] INFO  (BaseClass.java:76) -    Quit : Driver Loaded Successfully
+2020-03-14 15:47:53,232 +0530 [main] INFO  (BaseClass.java:36) - ./Drivers\geckodriver.exe
+2020-03-14 15:48:01,929 +0530 [main] INFO  (BaseClass.java:52) -    firefox :Driver Load Successfully
+2020-03-14 15:48:16,706 +0530 [main] INFO  (BaseClass.java:58) -    URL is opened successfully :http://www.facebook.com
+2020-03-14 15:48:16,726 +0530 [main] INFO  (loginPageTCs.java:13) - loginTestCase1()
+2020-03-14 15:48:16,951 +0530 [main] INFO  (loginPageTCs.java:17) - User Id Entered :KARUNANIDHIRAI@YAHOO.COM
+2020-03-14 15:48:17,047 +0530 [main] INFO  (loginPageTCs.java:20) - Password Entered :$Mamata12708$
+2020-03-14 15:48:47,787 +0530 [main] INFO  (loginPageTCs.java:22) - Submit button clicked
+2020-03-14 15:48:50,799 +0530 [main] INFO  (loginPageTCs.java:32) - Login TC1 passed: :(65) Facebook
+2020-03-14 15:48:53,181 +0530 [main] INFO  (BaseClass.java:76) -    Quit : Driver Loaded Successfully
+2020-03-14 16:00:57,835 +0530 [main] INFO  (BaseClass.java:36) - ./Drivers\geckodriver.exe
+2020-03-14 16:01:02,977 +0530 [main] INFO  (BaseClass.java:52) -    firefox :Driver Load Successfully
+2020-03-14 16:01:31,129 +0530 [main] INFO  (BaseClass.java:58) -    URL is opened successfully :http://www.facebook.com
+2020-03-14 16:01:31,161 +0530 [main] INFO  (loginPageTCs.java:13) - loginTestCase1()
+2020-03-14 16:01:31,365 +0530 [main] INFO  (loginPageTCs.java:17) - User Id Entered :KARUNANIDHIRAI@YAHOO.COM
+2020-03-14 16:01:31,473 +0530 [main] INFO  (loginPageTCs.java:20) - Password Entered :$Mamata12708$
+2020-03-14 16:02:23,644 +0530 [main] INFO  (loginPageTCs.java:22) - Submit button clicked
+2020-03-14 16:02:26,667 +0530 [main] INFO  (loginPageTCs.java:32) - Login TC1 passed: :(65) Facebook
+2020-03-14 16:02:28,566 +0530 [main] INFO  (BaseClass.java:76) -    Quit : Driver Loaded Successfully
+2020-03-14 16:07:31,220 +0530 [main] INFO  (BaseClass.java:36) - ./Drivers\geckodriver.exe
+2020-03-14 16:07:36,636 +0530 [main] INFO  (BaseClass.java:52) -    firefox :Driver Load Successfully
+2020-03-14 16:08:01,359 +0530 [main] INFO  (BaseClass.java:58) -    URL is opened successfully :http://www.facebook.com
+2020-03-14 16:08:01,375 +0530 [main] INFO  (loginPageTCs.java:13) - loginTestCase1()
+2020-03-14 16:08:01,599 +0530 [main] INFO  (loginPageTCs.java:17) - User Id Entered :KARUNANIDHIRAI@YAHOO.COM
+2020-03-14 16:08:01,692 +0530 [main] INFO  (loginPageTCs.java:20) - Password Entered :$Mamata12708$
+2020-03-14 16:08:17,010 +0530 [main] INFO  (loginPageTCs.java:22) - Submit button clicked
+2020-03-14 16:08:20,025 +0530 [main] INFO  (loginPageTCs.java:32) - Login TC1 passed: :(65) Facebook
+2020-03-14 16:08:22,181 +0530 [main] INFO  (BaseClass.java:76) -    Quit : Driver Loaded Successfully
